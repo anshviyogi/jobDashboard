@@ -1,0 +1,15 @@
+.menu-item{
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.profile{
+    text-decoration: none;
+    color: black;
+}
+.accountIcon{
+    color: black;
+}
+.sideBar{
+    padding-left: 15px;
+    padding-top: 10px;
+}
